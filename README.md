@@ -167,6 +167,8 @@ Click any name to see the complete method signature, and other info.
 | [verifyJWT](#verifyjwt)                                      | Verify JWT token                                             |
 
 #### addLibraryDataset
+[![button](http://www.presentationpro.com/images/product/medium/slide/PPP_CGENE_LT3_Presentation-PowerPoint-Slide-Graphic_Push_Button_Up.jpg)](https://mattermost.com)
+
 
 Add recordings to a dataset library
 
