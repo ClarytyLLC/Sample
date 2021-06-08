@@ -139,32 +139,7 @@ Click any name to see the complete method signature, and other info.
 | [updateIngestionConfiguration](#updateingestionconfiguration) | Update an ingestion configuration                            |
 | [updateJobs](#updatejobs)                                    | Update jobs                                                  |
 | [updateLibrary](#updatelibrary)                              | Update an existing library                                   |
-| [updateLibraryConfiguration](#updatelibraryconfiguration)    | Update Dataset Library Configuration                         |
-| [updateLibraryEngineModel](#updatelibraryenginemodel)        | Update a library engine model                                |
-| [updateLibraryType](#updatelibrarytype)                      | Update a library type                                        |
-| [updateMention](#updatemention)                              | Update a mention object                                      |
-| [updateMentionComment](#updatementioncomment)                | Update a mention comment                                     |
-| [updateMentionExportRequest](#updatementionexportrequest)    | Update status or assetURI of a mentionExportRequest Often use when the file export was completed or downloaded |
-| [updateMentionRating](#updatementionrating)                  | Update a mention rating                                      |
-| [updateMentions](#updatementions)                            | Update a set of mentions                                     |
-| [updateOrganization](#updateorganization)                    | Update an organization                                       |
-| [updateProcessTemplate](#updateprocesstemplate)              | Update a processTemplate by ID in CMS                        |
-| [updateSchemaState](#updateschemastate)                      | Update schema state                                          |
-| [updateSharedCollectionHistory](#updatesharedcollectionhistory) | Update shared collection history                             |
-| [updateSharedCollectionMentions](#updatesharedcollectionmentions) | Update shared collection mentions                            |
-| [updateSubscription](#updatesubscription)                    | Update subscription                                          |
-| [updateTDO](#updatetdo)                                      | Update a temporal data object                                |
-| [updateTask](#updatetask)                                    | Update a task                                                |
-| [updateUser](#updateuser)                                    | Update an existing user                                      |
-| [updateWatchlist](#updatewatchlist)                          | Update watchlist                                             |
-| [updateWidget](#updatewidget)                                | Updates a widget                                             |
-| [uploadEngineResult](#uploadengineresult)                    | Upload and store an engine result                            |
-| [upsertSchemaDraft](#upsertschemadraft)                      | Update a structured data registry schema                     |
-| [userLogin](#userlogin)                                      | Login as a user                                              |
-| [userLogout](#userlogout)                                    | Logout user and invalidate user token                        |
-| [validateEngineOutput](#validateengineoutput)                | Validates if an engine output conforms to the engine output guidelines |
-| [validateToken](#validatetoken)                              | Validate a user token                                        |
-| [verifyJWT](#verifyjwt)                                      | Verify JWT token                                             |
+
 
 #### addLibraryDataset
 <a class="link" href="javascript:history.back();"> Go to top</a>
