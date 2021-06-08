@@ -167,7 +167,8 @@ Click any name to see the complete method signature, and other info.
 | [verifyJWT](#verifyjwt)                                      | Verify JWT token                                             |
 
 #### addLibraryDataset
-<a class="link" href="javascript:window.history.back();"> Go to top</a>
+<a class="link" href="javascript:history.back();"> Go to top</a>
+
 Add recordings to a dataset library
 
 _**Arguments**_<br/>
